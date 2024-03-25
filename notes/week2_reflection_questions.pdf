@@ -1,0 +1,24 @@
+1. When is a GitHub README file useful for technical discussion vs. a Jupyter notebook?
+
+Answer:
+READMEs are the first thing a viewer sees when they click on your repo. As such highlighting key aspects of your program as a whole here may be useful. On the other hand Juypter notebook has the ability to demonstrate code, so it may be useful for asking questions regarding specific lines of code.
+
+2. What strategies can improve the clarity of a technical demo video?
+
+Answer:
+Having an organized structure to the video with specific sections?
+
+3. How could your team incorporate more reusable documentations?
+
+Answer:
+Have a dedicated documentation in each section of the code base?
+
+4. What challenges have you faced trying to reproduce code examples?
+
+Answer:
+I have not really tried yet
+
+5. How can tools like GitHub better support your existing workflows?
+
+Answer:
+It can facilitate an enviornment that promotes documentation and disussion
